@@ -1,0 +1,7 @@
+
+Following are the steps to execute the experiment02usingexperta on Ubuntu 24
+$ sudo apt install python3-venv
+$ python3 -m venv AI
+$ source AI/bin/activate
+$ pip install experta
+$ pip install frozendict==2.3.4
